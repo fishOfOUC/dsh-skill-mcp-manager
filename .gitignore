@@ -1,0 +1,10 @@
+node_modules/
+lib/
+dist/
+.qa/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+capabilities.json
+.dsh/
